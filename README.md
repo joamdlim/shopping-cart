@@ -25,15 +25,15 @@ A simple shopping cart application built with React that allows users to browse 
 
 
 ## Project Structure 
-src
-├── components
-│   ├── Header.jsx
-│   ├── ProductCard.jsx
-├── pages
-│   ├── CheckoutPage.jsx
-│   ├── HomePage.jsx
-├── styles
-│   └── App.css
+src<br>
+├── components<br>
+│   ├── Header.jsx<br>
+│   ├── ProductCard.jsx<br>
+├── pages<br>
+│   ├── CheckoutPage.jsx<br>
+│   ├── HomePage.jsx<br>
+├── styles<br>
+│   └── App.css<br>
 └── App.js
 
 
