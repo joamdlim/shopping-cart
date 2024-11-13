@@ -55,6 +55,14 @@ button {
   align-items: center;
 }
 
+.search-input {
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
 .cart-link {
   color: white;
   font-weight: bold;
