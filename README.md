@@ -14,14 +14,14 @@ A simple shopping cart application built with React that allows users to browse 
 
 
 ## Libraries Used
-- React
-├── react-dom
-├── react-scripts
-└── react-router-dom
+- React<br>
+├── react-dom<br>
+├── react-scripts<br>
+└── react-router-dom<br>
 
-- TailwindCSS
-├── postcss
-└── autoprefixer
+- TailwindCSS<br>
+├── postcss<br>
+└── autoprefixer<br>
 
 
 ## Project Structure 
